@@ -14,7 +14,7 @@ public class Metodos {
 		System.out.print("INTRODUCE UNA FRASE: ");
 		String frase = sc.nextLine().toLowerCase();
 		
-		System.out.print("INTRODUCE UNA letra: ");
+		System.out.print("INTRODUCE OTRA letra: ");
 		char letra = sc.nextLine().toLowerCase().charAt(0);
 		
 		int contador = 0;
